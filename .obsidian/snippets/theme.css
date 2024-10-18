@@ -1,0 +1,143 @@
+/* Hide these folders */
+
+/* .tree-item-self[data-path^=Excalidraw] {
+  display: none;
+}
+
+.tree-item-self[data-path^=images] {
+  display: none;
+}
+
+.tree-item-self[data-path^=Blogs] {
+  display: none;
+} */
+
+/* Medium-like theme */
+
+/* Import Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Charter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Georgia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cambria&display=swap");
+
+/* Apply Charter for body text */
+body,
+p,
+li,
+blockquote {
+  font-family: "Charter", "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Fell for headings and titles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "IM Fell English", "Georgia", serif;
+  font-weight: 400;
+}
+
+/* Helvetica or Söhne for subheadings */
+h2,
+h3 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 500;
+}
+
+/* Marat Sans for metadata, settings, and smaller text */
+small,
+.code-block .cm-s-obsidian,
+.metadata {
+  font-family: "Kievit", sans-serif;
+  font-size: 14px;
+}
+
+/* Sidebar styling */
+.workspace-leaf,
+.nav-file-title,
+.nav-folder-title,
+.side-dock .plugin {
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+/* General typography adjustments */
+strong {
+  font-weight: 600;
+}
+
+em {
+  font-style: italic;
+}
+
+/* Code snippets and inline code */
+code {
+  font-family: "Courier New", monospace;
+}
+
+/* Header font sizes */
+h1 {
+  font-size: 2.4em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.4em;
+}
+
+h5,
+h6 {
+  font-size: 1.2em;
+}
+
+/* Link color and text highlight */
+a {
+  color: #64B5F6; /* Light blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2196F3; /* Slightly darker blue on hover */
+}
+
+/* Text highlight color */
+::selection {
+  background-color: #BBDEFB; /* Light blue for text highlight */
+  color: #000; /* Keep text color readable */
+}
+
+/* Editor styling */
+.markdown-source-view .cm-editor .cm-scroller {
+  font-family: "Charter", "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Editor link styling */
+.markdown-source-view .cm-editor .cm-scroller a {
+  color: #64B5F6; /* Light blue for editor links */
+  text-decoration: none;
+}
+
+.markdown-source-view .cm-editor .cm-scroller a:hover {
+  color: #2196F3; /* Slightly darker blue on hover */
+}
+
+/* Editor text highlight color */
+.markdown-source-view .cm-editor .cm-scroller ::selection {
+  background-color: #BBDEFB; /* Light blue for text highlight in editor */
+  color: #000; /* Keep text color readable */
+}

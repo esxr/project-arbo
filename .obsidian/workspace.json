@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "09694cc8af89af2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "93415b717ef9abbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e67548132175e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOPs/General Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d5403559c14665e",
+    "type": "split",
+    "children": [
+      {
+        "id": "468ede14d412cbca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c720ef624f8584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08a7954c9561f1f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34f7bcf12b36445f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "99c9db6cce23287c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0381e4996973cbc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f7defa52d2a289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOPs/General Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for General Outline"
+            }
+          },
+          {
+            "id": "88e3d2fbf55c9c84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOPs/General Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from General Outline"
+            }
+          },
+          {
+            "id": "a46de04f3452f145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da218bfe87eb578f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOPs/General Outline.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of General Outline"
+            }
+          },
+          {
+            "id": "e3c7d56a9fd85cd5",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "72e67548132175e8",
+  "lastOpenFiles": [
+    "us_equities_data.parquet",
+    "convnet_fig.png",
+    "Cauldron/utils/__pycache__/draw_convnet.cpython-312.pyc",
+    "Cauldron/utils/__pycache__",
+    "Cauldron/utils/draw_convnet.py",
+    "Cauldron/utils/draw_convnet.pyt",
+    "Cauldron/utils",
+    "cnn_model_structure.png",
+    "SOPs/General Outline (Simple).md",
+    "SOPs/General Outline.md",
+    "us_equities_data.csv",
+    "Cauldron/general_outline.ipynb",
+    "Resources/Index.md",
+    "SOPs/Chinese Commodity Futures.md",
+    "SOPs/US Equities DL.md",
+    "SOPs/European Electricity Markets A2C.md",
+    "SOPs/European Electricity Markets A3C.md",
+    "SOPs/US Equities RL.md",
+    "SOPs/JSE.md",
+    "Resources/Concepts/Index.md",
+    "Resources/Concepts/Statistical Arbitrage/Ornstein-Uhlenbeck Process.md",
+    "Resources/Concepts/Reinforcement Learning/Advantage Actor-Critic (A2C).md",
+    "Resources/Concepts/Reinforcement Learning/State Space.md",
+    "Resources/Concepts/Reinforcement Learning/Reward Function.md",
+    "Resources/Concepts/Reinforcement Learning/Action Space.md",
+    "Resources/Concepts/Market and Financial/Smart Order Routing (SOR).md",
+    "Resources/Concepts/Market and Financial/Price Arbitrage.md",
+    "Resources/Concepts/Market and Financial/Limit Order Book (LOB).md",
+    "Resources/Concepts/Market and Financial/Intraday Markets.md",
+    "Resources/Concepts/Market and Financial/Day-Ahead Market (DAM).md",
+    "Resources/Concepts/Market and Financial/Continuous Intraday Market (CID).md",
+    "Resources/Concepts/Market and Financial/Balancing Market.md",
+    "Resources/Concepts/Machine Learning and DL/Wasserstein GAN (WGAN).md",
+    "Resources/Concepts/Machine Learning and DL/Transformers.md",
+    "Resources/Concepts/Machine Learning and DL/Technical Indicators.md",
+    "SOPs",
+    "Resources/Tools",
+    "Resources/Concepts/Risk Management and Performance",
+    "attachments/AI Glasses 2024-10-13 14.13.15.excalidraw.png",
+    "attachments/AI Glasses 2024-10-13 14.13.15.excalidraw.svg",
+    "attachments/Workbench 2024-09-30 16.33.40.excalidraw.png",
+    "attachments/Workbench 2024-09-30 16.33.40.excalidraw.svg",
+    "attachments/2024-09-29 2024-09-29 21.19.20.excalidraw.png",
+    "attachments/2024-09-29 2024-09-29 21.19.20.excalidraw.svg",
+    "attachments/Workbench 2024-09-11 16.38.42.excalidraw.png",
+    "attachments/Workbench 2024-09-11 16.38.42.excalidraw.svg",
+    "life/5_self_actualization/creativity_and_ideas/Automating Life/Untitled.canvas",
+    "Automating Life.canvas"
+  ]
+}

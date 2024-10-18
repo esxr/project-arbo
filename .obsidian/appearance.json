@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Sanctum",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "hide-source-folders",
+    "color-scheme"
+  ],
+  "accentColor": "",
+  "showViewHeader": false
+}

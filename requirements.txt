@@ -1,0 +1,13 @@
+numpy 
+pandas 
+matplotlib 
+pykalman
+yfinance
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+setuptools
+pydot 
+graphviz
+fastparquet
