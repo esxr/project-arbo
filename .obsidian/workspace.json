@@ -11,12 +11,14 @@
             "id": "72e67548132175e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Research/A hybrid convolutional neural network with long short-term memory for statistical arbitrage.pdf"
+                "file": "SOPs/US Equities DL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A hybrid convolutional neural network with long short-term memory for statistical arbitrage"
+              "icon": "lucide-file",
+              "title": "US Equities DL"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 386.5026054382324
   },
   "right": {
     "id": "99c9db6cce23287c",
@@ -177,30 +179,32 @@
   },
   "active": "72e67548132175e8",
   "lastOpenFiles": [
+    "SOPs/General Outline (Simple).md",
+    "SOPs/US Equities DL.md",
+    "SOPs/JSE.md",
+    "SOPs/European Electricity Markets A2C.md",
+    "SOPs/Chinese Commodity Futures.md",
     "SOPs/General Outline.md",
+    "Resources/Index.md",
+    "Resources/Research/Deep Learning Statistical Arbitrage.pdf",
+    "Resources/Research/Exploring arbitrage opportunities between China's carbon markets based on statistical arbitrage pairs trading strategy.pdf",
+    "Resources/Research/HIDDEN MARKOV MODEL FOR STATISTICAL ARBITRAGE IN INTERNATIONAL CRUDE OIL FUTURES MARKETS.pdf",
+    "Resources/Research/Statistical arbitrage in the freight options market.pdf",
+    "Resources/Research/Statistical arbitrage trading across electricity markets using advantage actor–critic methods.pdf",
+    "Resources/Research/Statistical arbitrage powered by Explainable Artificial Intelligence.pdf",
+    "Resources/Research/Statistical arbitrage on the JSE based on partial co-integration.pdf",
+    "Resources/Research/DETECTING DATA-DRIVEN ROBUST STATISTICAL ARBITRAGE STRATEGIES WITH DEEP NEURAL NETWORKS.pdf",
+    "Resources/Research/high-frequency statistical arbitrage in Chinese futures market.pdf",
+    "Resources/Research/Correlation Matrix Clustering for Statistical Arbitrage Portfolios.pdf",
     "mean_reversion_analysis.png",
     "Screenshot 2024-10-18 at 3.47.52 pm.png",
     "signals.png",
     "Screenshot 2024-10-18 at 3.47.13 pm.png",
     "README.md",
-    "us_equities_data.parquet",
     "convnet_fig.png",
-    "Cauldron/utils/__pycache__/draw_convnet.cpython-312.pyc",
-    "Cauldron/utils/__pycache__",
-    "Cauldron/utils/draw_convnet.py",
-    "Cauldron/utils/draw_convnet.pyt",
-    "Cauldron/utils",
     "cnn_model_structure.png",
-    "SOPs/General Outline (Simple).md",
-    "us_equities_data.csv",
-    "Cauldron/general_outline.ipynb",
-    "Resources/Index.md",
-    "SOPs/Chinese Commodity Futures.md",
-    "SOPs/US Equities DL.md",
-    "SOPs/European Electricity Markets A2C.md",
     "SOPs/European Electricity Markets A3C.md",
     "SOPs/US Equities RL.md",
-    "SOPs/JSE.md",
     "Resources/Concepts/Index.md",
     "Resources/Concepts/Statistical Arbitrage/Ornstein-Uhlenbeck Process.md",
     "Resources/Concepts/Reinforcement Learning/Advantage Actor-Critic (A2C).md",
@@ -216,8 +220,6 @@
     "Resources/Concepts/Market and Financial/Balancing Market.md",
     "Resources/Concepts/Machine Learning and DL/Wasserstein GAN (WGAN).md",
     "Resources/Concepts/Machine Learning and DL/Transformers.md",
-    "SOPs",
-    "Resources/Tools",
     "attachments/AI Glasses 2024-10-13 14.13.15.excalidraw.png",
     "attachments/AI Glasses 2024-10-13 14.13.15.excalidraw.svg",
     "attachments/Workbench 2024-09-30 16.33.40.excalidraw.png",
