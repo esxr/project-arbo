@@ -11,3 +11,4 @@ setuptools
 pydot 
 graphviz
 fastparquet
+arch

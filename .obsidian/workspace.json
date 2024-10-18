@@ -11,14 +11,12 @@
             "id": "72e67548132175e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SOPs/General Outline.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Research/A hybrid convolutional neural network with long short-term memory for statistical arbitrage.pdf"
               },
-              "icon": "lucide-file",
-              "title": "General Outline"
+              "icon": "lucide-file-text",
+              "title": "A hybrid convolutional neural network with long short-term memory for statistical arbitrage"
             }
           }
         ]
@@ -179,6 +177,7 @@
   },
   "active": "72e67548132175e8",
   "lastOpenFiles": [
+    "SOPs/General Outline.md",
     "mean_reversion_analysis.png",
     "Screenshot 2024-10-18 at 3.47.52 pm.png",
     "signals.png",
@@ -193,7 +192,6 @@
     "Cauldron/utils",
     "cnn_model_structure.png",
     "SOPs/General Outline (Simple).md",
-    "SOPs/General Outline.md",
     "us_equities_data.csv",
     "Cauldron/general_outline.ipynb",
     "Resources/Index.md",
@@ -224,7 +222,6 @@
     "attachments/AI Glasses 2024-10-13 14.13.15.excalidraw.svg",
     "attachments/Workbench 2024-09-30 16.33.40.excalidraw.png",
     "attachments/Workbench 2024-09-30 16.33.40.excalidraw.svg",
-    "attachments/2024-09-29 2024-09-29 21.19.20.excalidraw.png",
     "life/5_self_actualization/creativity_and_ideas/Automating Life/Untitled.canvas",
     "Automating Life.canvas"
   ]

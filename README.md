@@ -2,7 +2,7 @@
 
 Project Arbo aims to explore and exploit temporal price inefficiencies across multiple asset classes using advanced statistical and machine learning techniques. The focus is on leveraging deep learning, reinforcement learning, and other state-of-the-art methodologies to build a robust statistical arbitrage framework that adapts to various market conditions and asset types, such as stocks, ETFs, and futures.
 
-![](/signals.png)
+![](assets/signals.png)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To build robust statistical arbitrage models, **high-frequency data** from multi
 
 ## Data Exploration and Preparation
 
-![](/mean_reversion_analysis.png)
+![](assets/mean_reversion_analysis.png)
 
 One of the critical steps is to identify co-moving assets that can form arbitrage portfolios. We will use **correlation matrix clustering** to group assets that exhibit similar behaviors, aiding in the formation of mean-reverting strategies.
 
@@ -53,7 +53,7 @@ For robust mean reversion and cointegration models, we propose incorporating **H
 
 ## Baseline Model and Improvement
 
-![](/convnet_fig.png)
+![](assets/convnet_fig.png)
 
 We will begin by establishing a simple baseline using **Ornstein-Uhlenbeck (OU)** models for mean reversion and then enhance this baseline with more sophisticated methods like **Convolutional Neural Networks (CNNs)** and **Transformers**. Reinforcement learning techniques will be integrated to make the trading framework more adaptive.
 

@@ -1,0 +1,79 @@
+digraph {
+	rankdir=LR splines=line
+	node [color=blue4 fixedsize=true shape=circle style=filled]
+	x1 [label=x1]
+	x2 [label=x2]
+	x3 [label=x3]
+	x4 [label=x4]
+	x5 [label=x5]
+	node [color=red2 shape=circle style=filled]
+	a11 [label=LSTM1_1]
+	a12 [label=LSTM1_2]
+	a13 [label=LSTM1_3]
+	a14 [label=LSTM1_4]
+	a15 [label=LSTM1_5]
+	x1 -> a11
+	x1 -> a12
+	x1 -> a13
+	x1 -> a14
+	x1 -> a15
+	x2 -> a11
+	x2 -> a12
+	x2 -> a13
+	x2 -> a14
+	x2 -> a15
+	x3 -> a11
+	x3 -> a12
+	x3 -> a13
+	x3 -> a14
+	x3 -> a15
+	x4 -> a11
+	x4 -> a12
+	x4 -> a13
+	x4 -> a14
+	x4 -> a15
+	x5 -> a11
+	x5 -> a12
+	x5 -> a13
+	x5 -> a14
+	x5 -> a15
+	node [color=red2 shape=circle style=filled]
+	a21 [label=LSTM2_1]
+	a22 [label=LSTM2_2]
+	a23 [label=LSTM2_3]
+	a24 [label=LSTM2_4]
+	a25 [label=LSTM2_5]
+	a11 -> a21
+	a11 -> a22
+	a11 -> a23
+	a11 -> a24
+	a11 -> a25
+	a12 -> a21
+	a12 -> a22
+	a12 -> a23
+	a12 -> a24
+	a12 -> a25
+	a13 -> a21
+	a13 -> a22
+	a13 -> a23
+	a13 -> a24
+	a13 -> a25
+	a14 -> a21
+	a14 -> a22
+	a14 -> a23
+	a14 -> a24
+	a14 -> a25
+	a15 -> a21
+	a15 -> a22
+	a15 -> a23
+	a15 -> a24
+	a15 -> a25
+	node [color=seagreen2 shape=circle style=filled]
+	O [label=Output]
+	a21 -> O
+	a22 -> O
+	a23 -> O
+	a24 -> O
+	a25 -> O
+	fontcolor=black fontsize=20 label="LSTM Model Structure" labelloc=t
+}
